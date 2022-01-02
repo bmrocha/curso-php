@@ -6,7 +6,6 @@ Desenvolvimento Web é hoje um dos assuntos mais relevantes do momento porque o 
 No curso PHP 7 Completo, você vai começar entendo o básico da linguagem como sintaxe e os tipos, conhecer as estruturas lógicas e de repetição, como criar funções e trabalhar no contexto orientado à objetos. Com a base definida vamos apresentar conceitos mais avançados como cookies, sessões, integração com banco de dados. Para finalizar, teremos um projeto real de controle de ponto, para exercitar os conhecimentos adquiridos em uma aplicação aplicável ao mundo real, com layout moderno e profissional.
 
 Um dos maiores diferenciais dos nossos cursos é que Nós não ensinamos apenas fórmulas, você vai terminar esse curso de PHP entendendo os porquês, a lógica de como a coisa acontece, o que vai te tornar um profissional muito mais qualificado e competitivo no mercado. E no projeto final do curso iremos desenvolver uma aplicação exclusiva que surgiu de uma necessidade real da Cod3r. Assista a essa aula sem custo e confira o que você vai poder desenvolver junto com a gente.
-
 ### O que você aprenderá
   Criar uma base sólida em PHP, desde os princípios mais básicos
   Conhecer a sintaxe do PHP, os tipos e variáveis da linguagem

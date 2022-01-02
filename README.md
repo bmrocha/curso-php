@@ -21,6 +21,6 @@ Um dos maiores diferenciais dos nossos cursos é que Nós não ensinamos apenas 
   Pessoas que querem empreender e precisam desenvolver soluções para Web
   O necessário para se tornar um desenvolvedor web completo
 ### Instrutor:
--Leonardo Moura Leitao
+-Leonardo Moura Leitao </br>
 -Francisco Wagner Costa Aquino
 

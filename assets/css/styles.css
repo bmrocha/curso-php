@@ -1,0 +1,46 @@
+* {
+  font-family: 'Raleway', sans-serif;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  margin: 0px;
+  display: grid;
+  grid-template-rows: 120px 1fr 60px;
+  grid-template-columns: 1fr;
+  grid-template-areas: 
+    "cabecalho"
+    "principal"
+    "rodape";
+}
+.cabecalho {
+  grid-area: cabecalho;
+  background: linear-gradient(to bottom right, #9943db 0%, #018e8e 100%);
+  color: white;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+  z-index: 1;
+  box-shadow: 0px 6px 4px 0px rgba(44, 44, 44, 0.75);
+}
+.cabecalho > h1 {
+  margin: 0px;
+  font-weight: 300;
+  font-size: 2.5rem;
+}
+.cabecalho > h2 {
+  margin: 0px;
+  font-weight: 200;
+  font-size: 1.5rem;
+}
+.principal {
+  grid-area: principal;
+  height: calc(100vh -180px);
+  background-color: #f0f0f0;
+}
+.rodape {
+  grid-area: rodape;
+  background-color: #fff;
+
+}

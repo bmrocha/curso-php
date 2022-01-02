@@ -1,6 +1,9 @@
 # curso-php
 Curso PHP 7 Completo - Curso do Desenvolvedor Web
 
+DEMO : curso-php7-bmrocha.netlify.app
+
+
 Desenvolvimento Web é hoje um dos assuntos mais relevantes do momento porque o mercado respira Web. E se você deseja ser um profissional preparado para o mercado e não quer aprender apenas fórmulas, mas o porquês, esse curso de PHP é a escolha certa pra você.
 
 No curso PHP 7 Completo, você vai começar entendo o básico da linguagem como sintaxe e os tipos, conhecer as estruturas lógicas e de repetição, como criar funções e trabalhar no contexto orientado à objetos. Com a base definida vamos apresentar conceitos mais avançados como cookies, sessões, integração com banco de dados. Para finalizar, teremos um projeto real de controle de ponto, para exercitar os conhecimentos adquiridos em uma aplicação aplicável ao mundo real, com layout moderno e profissional.

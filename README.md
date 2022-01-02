@@ -1,7 +1,11 @@
 # curso-php
 Curso PHP 7 Completo - Curso do Desenvolvedor Web
+<p align="center">
 
-DEMO : curso-php7-bmrocha.netlify.app
+DEMO : https://curso-php7-bmrocha.netlify.app/
+
+<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
 
 Desenvolvimento Web é hoje um dos assuntos mais relevantes do momento porque o mercado respira Web. E se você deseja ser um profissional preparado para o mercado e não quer aprender apenas fórmulas, mas o porquês, esse curso de PHP é a escolha certa pra você.
@@ -26,4 +30,4 @@ Um dos maiores diferenciais dos nossos cursos é que Nós não ensinamos apenas 
 ### Instrutor:
 -Leonardo Moura Leitao </br>
 -Francisco Wagner Costa Aquino
-
+</p>

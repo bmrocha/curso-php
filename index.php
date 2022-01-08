@@ -102,6 +102,8 @@
       </div>
     </main>
 
-    <footer class="rodape">COD3R & ALUNOS &copy; 2019</footer>
+    <footer class="rodape">
+      COD3R & ALUNOS &copy; <?= date('Y'); ?>
+    </footer>
   </body>
 </html>

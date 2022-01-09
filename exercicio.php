@@ -32,9 +32,12 @@
     <div class="conteudo">
       <?php include('teste/teste.php');?>
     </div>
+
     <footer class="rodape">
-      COD3R & ALUNOS &copy;
+      COD3R & ALUNOS &copy; <?= date('Y'); ?>
     </footer>
+
+  </main>
 </body>
 
 </html>

@@ -16,7 +16,7 @@
     rel="stylesheet" />
   <link rel="stylesheet" href="assets/css/styles.css" />
   <link rel="stylesheet" href="assets/css/exercicio.css" />
-  <title>Exercícios</title>
+  <title>Exercícios - PHP</title>
 </head>
 
 <body class="exercicio">
@@ -25,11 +25,12 @@
     <h2>Visualização do Exercício</h2>
   </header>
   <nav class="navegacao">
-    <a href="" class="verde">Sem formatação</a>
+    <a href="#" class="verde">Sem formatação</a>
     <a href="index.php" class="vermelha">Voltar</a>
   </nav>
   <main class=" principal">
     <div class="conteudo">
+      <h3>Olá esta funcionando até aqui !!</h3>
       <?php include('teste/teste.php');?>
     </div>
   </main>

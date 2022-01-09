@@ -31,12 +31,10 @@
 
   <main class=" principal">
     <div class="conteudo">
+      <?php include('teste/teste.php');?>
     </div>
-
-
-
     <footer class="rodape">
-      COD3R & ALUNOS &copy; <?= date('Y'); ?>
+      COD3R & ALUNOS &copy;
     </footer>
 </body>
 

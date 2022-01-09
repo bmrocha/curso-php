@@ -28,7 +28,6 @@
     <a href="" class="verde">Sem formatação</a>
     <a href="index.php" class="vermelha">Voltar</a>
   </nav>
-
   <main class=" principal">
     <div class="conteudo">
       <?php include('teste/teste.php');?>
